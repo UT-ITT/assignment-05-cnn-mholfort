@@ -1,0 +1,55 @@
+{
+    "like_melanie":
+    {
+        "bboxes":
+        [
+            [
+                0.29598693, 
+                0.41316527, 
+                0.17180205, 
+                0.13042787
+            ]
+        ],
+        "labels": ["like"],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+
+    "rock_melanie":
+    {
+        "bboxes":
+        [
+            [
+                0.25233427, 
+                0.35084034, 
+                0.16900187, 
+                0.14460784
+            ]
+        ],
+        "labels": ["rock"],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+
+    "peace_melanie":
+    {
+        "bboxes":
+        [
+            [
+                0.23249393, 
+                0.36183473, 
+                0.10597572, 
+                0.16246503
+            ]
+        ],
+        "labels": ["peace"],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    }
+}
